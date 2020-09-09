@@ -1,8 +1,11 @@
 # New-Helmet-Detection
 Nidhi Subbmission
+
+
+
 To run the files :
-If GPU is availaible,code can run on anaconda jupitor notebook.
-Make account on kaggle and download following datasets:
+If GPU is availaible,code can run on anaconda jupytor notebook.
+Download following datasets from kaggle:
 1. hard-hat-detection
 2. haarcascades
 3. lfwpeople
